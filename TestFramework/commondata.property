@@ -1,0 +1,7 @@
+automation_name Appium
+device_id 429a673d
+device_name vivo1804
+platform_name Android
+platform_version 10
+appPackage com.flipkart.android
+appActivity .SplashActivity
