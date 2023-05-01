@@ -1,0 +1,15 @@
+{
+    "name":"ram",
+    "last name":"singh",
+    "address":[
+        {
+"place":"mysore",
+"street":"btm1"
+        },
+        {
+            "place":"mysore",
+            "street":"btm2"
+        }
+    ]
+
+}
