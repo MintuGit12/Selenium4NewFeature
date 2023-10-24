@@ -47,6 +47,9 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.automate.RESt_API"/>
+			<item value="com.crm.udmy"/>
+			<item value="com.crm.Udmy"/>
 			<item value="junit.practice"/>
 			<item value="com.crm.Junit"/>
 			<item value="com.JUnit"/>
@@ -56,6 +59,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="com.automate.RESt_API"/>
+			<item value="com.crm.udmy"/>
+			<item value="com.crm.Udmy"/>
 			<item value="junit.practice"/>
 			<item value="com.crm.Junit"/>
 			<item value="com.JUnit"/>
@@ -83,5 +89,31 @@
 		<item key="height" value="838"/>
 		<item key="x" value="720"/>
 		<item key="y" value="0"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\JavaTempAuto\NewPkVtiger"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="DemoApiProj"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="DemoApiProj"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
 	</section>
 </section>

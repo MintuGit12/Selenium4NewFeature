@@ -1,0 +1,17 @@
+<laptops>
+<laptop name="Dell">
+<price value="50000"/>
+<ram value="8GB"/>
+<ssd value="256GB"/>
+</laptop>
+<laptop name="Apple">
+<price value="80000"/>
+<ram value="16GB"/>
+<ssd value="512GB"/>
+</laptop>
+<laptop name="HP">
+<price value="60000"/>
+<ram value="32GB"/>
+<ssd value="1TB"/>
+</laptop>
+</laptops>
